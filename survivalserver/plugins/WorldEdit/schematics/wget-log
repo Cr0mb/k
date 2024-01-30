@@ -1,0 +1,11 @@
+--2024-01-30 02:01:21--  https://download.builtbybit.com/?request_id=29406
+Resolving download.builtbybit.com (download.builtbybit.com)... 172.67.43.208, 104.22.26.248, 104.22.27.248, ...
+Connecting to download.builtbybit.com (download.builtbybit.com)|172.67.43.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘index.html?request_id=29406’
+
+index.html?request_id=29406                          [<=>                                                                                                       ]       0  --.-KB/s               index.html?request_id=29406                          [ <=>                                                                                                      ]     219  --.-KB/s    in 0s      
+
+2024-01-30 02:01:21 (3.05 MB/s) - ‘index.html?request_id=29406’ saved [219]
+

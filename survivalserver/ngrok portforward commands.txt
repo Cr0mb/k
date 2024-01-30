@@ -1,0 +1,6 @@
+./ngrok authtoken 'your_auth_token'
+./ngrok tcp -region=us 25565
+
+setup
+chmod u+x start_server.sh
+./start_server.sh

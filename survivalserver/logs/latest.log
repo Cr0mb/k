@@ -1,0 +1,411 @@
+[03:16:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:16:03] [ServerMain/INFO]: Loaded 1174 recipes
+[03:16:03] [ServerMain/INFO]: Loaded 1271 advancements
+[03:16:04] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[03:16:04] [Server thread/WARN]: ****************************
+[03:16:04] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
+[03:16:04] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
+[03:16:04] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
+[03:16:04] [Server thread/WARN]: ****************************
+[03:16:04] [Server thread/INFO]: Loading properties
+[03:16:04] [Server thread/INFO]: This server is running Paper version git-Paper-405 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 3841722)
+[03:16:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:16:05] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:16:06] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[03:16:06] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[03:16:07] [Server thread/INFO]: Default game type: SURVIVAL
+[03:16:07] [Server thread/INFO]: Generating keypair
+[03:16:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:16:07] [Server thread/INFO]: Using epoll channel type
+[03:16:07] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[03:16:07] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[03:16:10] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v4.9.2
+[03:16:10] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.2 is now loaded. Registering protocol transformers and injecting...
+[03:16:10] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[03:16:11] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[03:16:11] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[03:16:11] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[03:16:12] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.116
+[03:16:12] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[03:16:12] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.2.18+6616-abda4e0
+[03:16:13] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@69b7a218]
+[03:16:13] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.1
+[03:16:13] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.9+5934e49
+[03:16:13] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.5
+[03:16:13] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.20.1
+[03:16:13] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v4.9.1
+[03:16:13] [Server thread/INFO]: [GriefPrevention] Loading server plugin GriefPrevention v16.18.1
+[03:16:13] [Server thread/INFO]: [EssentialsDiscord] Loading server plugin EssentialsDiscord v2.21.0-dev+25-fbfd7e9
+[03:16:13] [Server thread/INFO]: [GSit] Loading server plugin GSit v1.7.0
+[03:16:13] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.2.0-SNAPSHOT-679
+[03:16:15] [Server thread/INFO]: [VeinMiner] Loading server plugin VeinMiner v2.1.1
+[03:16:15] [Server thread/INFO]: [VeinMiner] Found WorldGuard. Registering custom region flag.
+[03:16:15] [Server thread/INFO]: [FancyNpcs] Loading server plugin FancyNpcs v2.0.7
+[03:16:15] [Server thread/INFO]: [Polymer] Loading server plugin Polymer v1.4.1-SNAPSHOT
+[03:16:15] [Server thread/INFO]: [PL-Hide] Loading server plugin PL-Hide v1.5.21
+[03:16:15] [Server thread/INFO]: [net.essentialsx.discordlink.EssentialsDiscordLink] Loading server plugin EssentialsDiscordLink v2.20.1
+[03:16:15] [Server thread/INFO]: [RHLeafDecay] Loading server plugin RHLeafDecay v1.20_R1
+[03:16:15] [Server thread/INFO]: [RottenFlesh2Leather] Loading server plugin RottenFlesh2Leather v1.2
+[03:16:15] [Server thread/INFO]: [TAB] Loading server plugin TAB v4.1.2
+[03:16:15] [Server thread/INFO]: [CoreProtect] Loading server plugin CoreProtect v22.2
+[03:16:15] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.20.1
+[03:16:15] [Server thread/INFO]: [Vulcan] Loading server plugin Vulcan v2.8.3
+[03:16:16] [Server thread/INFO]: [LPC] Loading server plugin LPC v3.6.0
+[03:16:16] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.4.30
+[03:16:16] [Server thread/INFO]: [InvSee++] Loading server plugin InvSeePlusPlus v0.26.0
+[03:16:16] [Server thread/INFO]: [KBP] Loading server plugin KarmaAPI v1.3.4-22
+[03:16:16] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.3.92
+[03:16:16] [Server thread/INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.8.6
+[03:16:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:16:16] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.116
+[03:16:16] [Server thread/INFO]:         __    
+[03:16:16] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.116
+[03:16:16] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[03:16:16] [Server thread/INFO]: 
+[03:16:16] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[03:16:17] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[03:16:18] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[03:16:18] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[03:16:18] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2797ms)
+[03:16:18] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[03:16:18] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[03:16:19] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[03:16:19] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[03:16:19] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[03:16:19] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.18+6616-abda4e0
+[03:16:19] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[03:16:19] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[03:16:19] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R3.PaperweightAdapter as the Bukkit adapter
+[03:16:21] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.2.0-SNAPSHOT-679
+[03:16:22] [Server thread/INFO]: Preparing level "world"
+[03:16:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:16:24] [Server thread/INFO]: Time elapsed: 307 ms
+[03:16:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[03:16:24] [Server thread/INFO]: Time elapsed: 481 ms
+[03:16:24] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.2
+[03:16:24] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.3 (765)
+[03:16:24] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.1
+[03:16:24] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[03:16:24] [Server thread/WARN]: [Essentials] Version mismatch! Please update EssentialsDiscord to the same version.
+[03:16:25] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[03:16:25] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[03:16:26] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[03:16:26] [Server thread/INFO]: [Essentials] Using locale en
+[03:16:26] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[03:16:26] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[03:16:26] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[03:16:26] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[03:16:26] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.9+5934e49
+[03:16:27] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[03:16:27] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[03:16:27] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[03:16:27] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[03:16:27] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[03:16:27] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[03:16:27] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[03:16:27] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[03:16:27] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[03:16:27] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[03:16:27] [Server thread/INFO]: [WorldGuard] Loading region data...
+[03:16:27] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.5
+[03:16:28] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[03:16:28] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.20.1
+[03:16:28] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[03:16:28] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.1
+[03:16:28] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.18.1
+[03:16:28] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
+[03:16:28] [Server thread/INFO]: [GriefPrevention] 1 total claims loaded.
+[03:16:29] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
+[03:16:29] [Server thread/INFO]: [GriefPrevention] Successfully hooked into WorldGuard.
+[03:16:29] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
+[03:16:29] [Server thread/INFO]: [GriefPrevention] Boot finished.
+[03:16:29] [Server thread/INFO]: [EssentialsDiscord] Enabling EssentialsDiscord v2.21.0-dev+25-fbfd7e9
+[03:16:29] [Server thread/WARN]: [EssentialsDiscord]  ⚙ ꜱᴇʀᴠᴇʀ ︱ Version mismatch! Please update all Essentials jars to the same version.
+[03:16:29] [Server thread/INFO]: [EssentialsDiscord] Starting Metrics. Opt-out using the global bStats config.
+[03:16:29] [Server thread/INFO]: [EssentialsDiscord] Attempting to login to Discord...
+[03:16:31] [Server thread/INFO]: [net.essentialsx.dep.net.dv8tion.jda.api.JDA] Login Successful!
+[03:16:32] [JDA MainWS-ReadThread/INFO]: [net.essentialsx.dep.net.dv8tion.jda.internal.requests.WebSocketClient] Connected to WebSocket
+[03:16:32] [JDA MainWS-ReadThread/INFO]: [net.essentialsx.dep.net.dv8tion.jda.api.JDA] Finished Loading!
+[03:16:32] [Server thread/INFO]: [EssentialsDiscord] Successfully logged in as EssentialsChat#7474
+[03:16:34] [Server thread/INFO]: [GSit] Enabling GSit v1.7.0
+[03:16:34] [Server thread/INFO]: [GSit] The plugin was successfully enabled.
+[03:16:34] [Server thread/INFO]: [GSit] Link with GriefPrevention successful!
+[03:16:34] [Server thread/INFO]: [GSit] Link with PlaceholderAPI successful!
+[03:16:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: gsit [1.7.0]
+[03:16:34] [Server thread/INFO]: [GSit] Link with ViaVersion successful!
+[03:16:34] [Server thread/INFO]: [GSit] Link with WorldGuard successful!
+[03:16:34] [Server thread/INFO]: [VeinMiner] Enabling VeinMiner v2.1.1
+[03:16:34] [Server thread/INFO]: [VeinMiner] Loading configuration options to local memory
+[03:16:34] [Server thread/INFO]: [VeinMiner] Unknown or invalid block state string for input: "minecraft:grass". Is it an item?
+[03:16:34] [Server thread/INFO]: [VeinMiner] Added 13 aliases.
+[03:16:34] [Thread-18/INFO]: [VeinMiner] Using SQLITE for persistent storage.
+[03:16:34] [Server thread/INFO]: [VeinMiner] Registered category with id "Axe" holding 6 unique items and 26 unique blocks.
+[03:16:34] [Server thread/INFO]: [VeinMiner] Registered category with id "Hoe" holding 6 unique items and 10 unique blocks.
+[03:16:34] [Server thread/INFO]: [VeinMiner] Registered category with id "Pickaxe" holding 6 unique items and 23 unique blocks.
+[03:16:34] [Server thread/INFO]: [VeinMiner] Registered category with id "Shears" holding 1 unique items and 27 unique blocks.
+[03:16:34] [Server thread/INFO]: [VeinMiner] Registered category with id "Shovel" holding 6 unique items and 10 unique blocks.
+[03:16:34] [Server thread/INFO]: [VeinMiner] Registering commands
+[03:16:34] [Server thread/INFO]: [VeinMiner] Performing an update check!
+[03:16:34] [Server thread/INFO]: [VeinMiner] Registering events
+[03:16:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: veinminer [2.1.1]
+[03:16:34] [Server thread/INFO]: [VeinMiner] Vault found. Attempting to enable economy support...
+[03:16:34] [Server thread/INFO]: [VeinMiner] Economy found! Hooked successfully.
+[03:16:34] [Server thread/INFO]: [VeinMiner] Enabling Plugin Metrics
+[03:16:34] [Server thread/INFO]: [VeinMiner] Thanks for enabling Metrics! The anonymous stats are appreciated
+[03:16:34] [Server thread/INFO]: [FancyNpcs] Enabling FancyNpcs v2.0.7
+[03:16:34] [Server thread/INFO]: [Polymer] Enabling Polymer v1.4.1-SNAPSHOT
+[03:16:34] [Thread-20/INFO]: [VeinMiner] You are on the latest version of VeinMiner.
+[03:16:34] [Server thread/INFO]: [Polymer] Polymer enabled!
+[03:16:34] [Server thread/WARN]: [Polymer] A new version of Polymer is available: 1.4.2.
+[03:16:34] [Server thread/INFO]: [PL-Hide] Enabling PL-Hide v1.5.21
+[03:16:34] [Server thread/INFO]: [net.essentialsx.discordlink.EssentialsDiscordLink] Enabling EssentialsDiscordLink v2.20.1
+[03:16:34] [Server thread/WARN]: [net.essentialsx.discordlink.EssentialsDiscordLink] The role, owner (683479886731411574), cannot be used for group->role synchronization because it above your bot's upper most role. Either move your bot's role above "owner" or move "owner" below your bot's role.
+[03:16:34] [Server thread/INFO]: [net.essentialsx.discordlink.EssentialsDiscordLink] Starting Metrics. Opt-out using the global bStats config.
+[03:16:34] [Server thread/INFO]: [RHLeafDecay] Enabling RHLeafDecay v1.20_R1
+[03:16:35] [Server thread/INFO]: [RHLeafDecay] The plugin has been loaded!
+[03:16:35] [Server thread/INFO]: [RHLeafDecay] You are using version 1.20_R1 /w 💕 by X0R3
+[03:16:35] [Server thread/INFO]: [RHLeafDecay] Info:
+[03:16:35] [Server thread/INFO]: [RHLeafDecay] If you want your server be presented on the plugin page, then please contact me! :)
+[03:16:35] [Server thread/INFO]: [RottenFlesh2Leather] Enabling RottenFlesh2Leather v1.2
+[03:16:35] [Server thread/INFO]: [TAB] Enabling TAB v4.1.2
+[03:16:35] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: tab [4.1.2]
+[03:16:35] [Server thread/INFO]: [TAB] Enabled in 350ms
+[03:16:35] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v22.2
+[03:16:35] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled! 
+[03:16:35] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[03:16:35] [Server thread/INFO]: --------------------
+[03:16:35] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
+[03:16:35] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
+[03:16:35] [Server thread/INFO]: --------------------
+[03:16:35] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.20.1
+[03:16:35] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[03:16:35] [Server thread/INFO]: [Vulcan] Enabling Vulcan v2.8.3
+[03:16:36] [Server thread/INFO]: [Vulcan] Server Version: 1.20.4 detected!
+[03:16:36] [Server thread/INFO]: [Vulcan] GSit found. Enabling hook!
+[03:16:36] [Server thread/INFO]: [Vulcan] BStats enabled!
+[03:16:36] [Server thread/INFO]: [Vulcan] Registered GSit Listener!
+[03:16:36] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: Vulcan [2.8.3]
+[03:16:36] [Server thread/INFO]: [Vulcan] PlaceholderAPI found. Enabling hook!
+[03:16:36] [Server thread/INFO]: [LPC] Enabling LPC v3.6.0
+[03:16:36] [Server thread/INFO]: [voicechat] Enabling voicechat v2.4.30
+[03:16:36] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.4-R0.1
+[03:16:36] [Server thread/INFO]: [voicechat] Compatibility version 17
+[03:16:36] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[03:16:36] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: voicechat [2.4.30]
+[03:16:36] [Server thread/INFO]: [voicechat] Successfully registered PlaceholderAPI expansion
+[03:16:36] [Server thread/INFO]: [voicechat] Successfully added ViaVersion mappings
+[03:16:36] [Server thread/INFO]: [InvSee++] Enabling InvSeePlusPlus v0.26.0
+[03:16:37] [Server thread/INFO]: [KBP] Enabling KarmaAPI v1.3.4-22
+[03:16:37] [Server thread/INFO]: Registered KarmaAPI bukkit listener for panel API utilities
+[03:16:37] [Server thread/INFO]: [Chunky] Enabling Chunky v1.3.92
+[03:16:37] [Server thread/INFO]: [DecentHolograms] Enabling DecentHolograms v2.8.6
+[03:16:37] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[03:16:38] [Server thread/INFO]: Running delayed init tasks
+[03:16:38] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[03:16:38] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[03:16:38] [Craft Scheduler Thread - 6 - Essentials/INFO]: [Essentials]  ⚙ ꜱᴇʀᴠᴇʀ ︱ Fetching version information...
+
+[03:16:38] [Craft Scheduler Thread - 10 - DecentHolograms/INFO]: [DecentHolograms] Loading holograms... 
+[03:16:38] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
+[03:16:38] [Craft Scheduler Thread - 16 - Vault/INFO]: [Vault] Checking for Updates ... 
+[03:16:38] [Craft Scheduler Thread - 10 - DecentHolograms/INFO]: [DecentHolograms] Loaded 3 holograms!
+[03:16:38] [Craft Scheduler Thread - 5 - Essentials/WARN]: [Essentials] Permissions lag notice with (LuckPermsHandler). Response took 119.292171ms. Summary: Getting groups for 05640886-5bc4-4dcc-857a-fe6f876a9a2a
+[03:16:38] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.2]
+[03:16:38] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.1-R2]
+[03:16:38] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.7.0]
+[03:16:38] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
+[03:16:38] [Server thread/INFO]: 4 placeholder hook(s) registered! 3 placeholder hook(s) have an update available.
+[03:16:38] [Server thread/INFO]: Done (34.337s)! For help, type "help"
+[03:16:38] [Server thread/INFO]: Timings Reset
+[03:16:38] [Server thread/INFO]: [voicechat] Loading plugins
+[03:16:38] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[03:16:38] [Server thread/INFO]: [voicechat] Initializing plugins
+[03:16:38] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[03:16:38] [Craft Scheduler Thread - 16 - Vault/INFO]: [Vault] No new version available
+[03:16:38] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[03:16:39] [User Authenticator #0/INFO]: UUID of player GlennFTW is 4d8b60f3-1469-4aa0-9444-8c776b7eb31d
+[03:16:40] [Server thread/INFO]: GlennFTW[/[0:0:0:0:0:0:0:1%0]:37250] logged in with entity id 103 at ([world]-844.8577611408334, 69.0, -237.74024301611058)
+[03:16:40] [Server thread/INFO]: (+)PʟᴀʏᴇʀGlennFTW
+[03:16:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2659ms or 53 ticks behind
+[03:16:46] [Craft Scheduler Thread - 4 - FancyNpcs/INFO]: [ChatColorHandler] Found MiniMessage in Server. MiniMessage support enabled.
+[03:16:46] [Craft Scheduler Thread - 4 - FancyNpcs/INFO]: [ChatColorHandler] Found plugin "PlaceholderAPI". PlaceholderAPI support enabled.
+[03:16:51] [Server thread/INFO]: GlennFTW issued server command: /help
+[03:16:56] [Async Chat Thread - #1/INFO]: PʟᴀʏᴇʀGlennFTW: "/help"
+[03:17:01] [Server thread/INFO]: GlennFTW issued server command: /help
+[03:17:31] [Server thread/INFO]: GlennFTW issued server command: /lp user GlennFTW permission set essentials.help
+[03:17:32] [Server thread/INFO]: GlennFTW issued server command: /help
+[03:17:44] [luckperms-command-executor/INFO]: [LP] Set * to true for glennftw in context global.
+[03:17:47] [Server thread/INFO]: GlennFTW issued server command: /lp user GlennFTW permission set essentials.help
+[03:17:47] [luckperms-command-executor/INFO]: [LP] LOG > (GlennFTW) [U] (glennftw)
+[03:17:47] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.help true
+[03:17:49] [Server thread/INFO]: GlennFTW issued server command: /help
+[03:18:03] [Server thread/INFO]: GlennFTW issued server command: /lp group default permission set essentials.help
+[03:18:11] [Server thread/INFO]: GlennFTW issued server command: /lp user GlennFTW permission unset essentials.help
+[03:18:11] [luckperms-command-executor/INFO]: [LP] LOG > (GlennFTW) [U] (glennftw)
+[03:18:11] [luckperms-command-executor/INFO]: [LP] LOG > permission unset essentials.help
+[03:18:12] [Server thread/INFO]: GlennFTW issued server command: /help
+[03:18:16] [Server thread/INFO]: GlennFTW issued server command: /help
+[03:18:21] [Server thread/INFO]: GlennFTW lost connection: Disconnected
+[03:18:21] [Server thread/INFO]: [voicechat] Disconnecting client GlennFTW
+[03:18:21] [Server thread/INFO]: (-)PʟᴀʏᴇʀGlennFTW
+[03:18:27] [User Authenticator #1/INFO]: UUID of player GlennFTW is 4d8b60f3-1469-4aa0-9444-8c776b7eb31d
+[03:18:28] [Server thread/INFO]: GlennFTW[/[0:0:0:0:0:0:0:1%0]:33832] logged in with entity id 590 at ([world]-834.4141657115393, 69.0, -237.08673978854014)
+[03:18:28] [Server thread/INFO]: (+)PʟᴀʏᴇʀGlennFTW
+[03:18:40] [Server thread/INFO]: GlennFTW issued server command: /lp user GlennFTW permission unset *
+[03:18:40] [luckperms-command-executor/INFO]: [LP] LOG > (GlennFTW) [U] (glennftw)
+[03:18:40] [luckperms-command-executor/INFO]: [LP] LOG > permission unset *
+[03:18:41] [Server thread/INFO]: GlennFTW issued server command: /help
+[03:18:52] [luckperms-command-executor/INFO]: [LP] Set essentials.help to true for glennftw in context global.
+[03:18:54] [Server thread/INFO]: GlennFTW issued server command: /help
+[03:21:17] [Server thread/INFO]: GlennFTW issued server command: /lp applyedits R84GAFFNZO --force
+[03:21:21] [luckperms-command-executor/INFO]: [LP] Web editor data was applied to group admin successfully.
+[03:21:21] [luckperms-command-executor/INFO]: [LP] (1 addition and 1 deletion)
+[03:21:21] [luckperms-command-executor/INFO]: +  prefix.2000.&c&lAᴅᴍɪɴ &7&l (true)
+[03:21:21] [luckperms-command-executor/INFO]: -  prefix.2000.&c&lAᴅᴍɪɴ&f&l&7&l (true)
+[03:21:21] [luckperms-command-executor/INFO]: [LP] Web editor data was applied to group demon successfully.
+[03:21:21] [luckperms-command-executor/INFO]: [LP] (1 addition and 1 deletion)
+[03:21:21] [luckperms-command-executor/INFO]: +  prefix.100.&5&lDᴇᴍᴏɴ &7&l (true)
+[03:21:21] [luckperms-command-executor/INFO]: -  prefix.100.&5&lDᴇᴍᴏɴ&f&l&7&l (true)
+[03:21:21] [luckperms-command-executor/INFO]: [LP] Web editor data was applied to group developer successfully.
+[03:21:21] [luckperms-command-executor/INFO]: [LP] (1 addition and 1 deletion)
+[03:21:21] [luckperms-command-executor/INFO]: +  prefix.1002.&3&lDᴇᴠᴇʟᴏᴘᴇʀ &7&l (true)
+[03:21:21] [luckperms-command-executor/INFO]: -  prefix.1002.&3&lDᴇᴠᴇʟᴏᴘᴇʀ&f&l&7&l (true)
+[03:21:21] [luckperms-command-executor/INFO]: [LP] Web editor data was applied to group helper successfully.
+[03:21:21] [luckperms-command-executor/INFO]: [LP] (1 addition and 1 deletion)
+[03:21:21] [luckperms-command-executor/INFO]: +  prefix.1000.&6&lHᴇʟᴘᴇʀ &7&l (true)
+[03:21:21] [luckperms-command-executor/INFO]: -  prefix.1000.&6&lHᴇʟᴘᴇʀ&f&l&7&l (true)
+[03:21:21] [luckperms-command-executor/INFO]: [LP] Web editor data was applied to group knight successfully.
+[03:21:21] [luckperms-command-executor/INFO]: [LP] (1 addition and 1 deletion)
+[03:21:21] [luckperms-command-executor/INFO]: +  prefix.100.&6&lKɴɪɢʜᴛ &7&l (true)
+[03:21:21] [luckperms-command-executor/INFO]: -  prefix.100.&6&lKɴɪɢʜᴛ&f&l&7&l (true)
+[03:21:21] [luckperms-command-executor/INFO]: [LP] Web editor data was applied to group mod successfully.
+[03:21:21] [luckperms-command-executor/INFO]: [LP] (1 addition and 1 deletion)
+[03:21:21] [luckperms-command-executor/INFO]: +  prefix.1000.&b&lMᴏᴅ &7&l  (true)
+[03:21:21] [luckperms-command-executor/INFO]: -  prefix.1000.&b&lMᴏᴅ&f&l&7&l  (true)
+[03:21:21] [luckperms-command-executor/INFO]: [LP] Web editor data was applied to group owner successfully.
+[03:21:21] [luckperms-command-executor/INFO]: [LP] (1 addition and 1 deletion)
+[03:21:21] [luckperms-command-executor/INFO]: +  prefix.10000.&4&lOᴡɴᴇʀ &7&l (true)
+[03:21:21] [luckperms-command-executor/INFO]: -  prefix.10000.&4&lOᴡɴᴇʀ&f&l &7&l (true)
+[03:21:21] [luckperms-command-executor/INFO]: [LP] Web editor data was applied to group streamer successfully.
+[03:21:21] [luckperms-command-executor/INFO]: [LP] (1 addition and 1 deletion)
+[03:21:21] [luckperms-command-executor/INFO]: +  prefix.105.&5&lSᴛʀᴇᴀᴍᴇʀ &7&l  (true)
+[03:21:21] [luckperms-command-executor/INFO]: -  prefix.105.&5&lSᴛʀᴇᴀᴍᴇʀ&f&l&7&l  (true)
+[03:21:21] [luckperms-command-executor/INFO]: [LP] Web editor data was applied to group youtuber successfully.
+[03:21:21] [luckperms-command-executor/INFO]: [LP] (1 addition and 1 deletion)
+[03:21:21] [luckperms-command-executor/INFO]: +  prefix.100.&4&lYᴏᴜ&f&lTᴜʙᴇʀ &7&l  (true)
+[03:21:21] [luckperms-command-executor/INFO]: -  prefix.100.&4&lYᴏᴜ&f&lTᴜʙᴇʀ&7&l  (true)
+[03:21:27] [Server thread/INFO]: GlennFTW issued server command: /help
+[03:21:50] [luckperms-command-executor/INFO]: [LP] Web editor data was applied to group default successfully.
+[03:21:50] [luckperms-command-executor/INFO]: [LP] (1 addition and 1 deletion)
+[03:21:50] [luckperms-command-executor/INFO]: +  prefix.100.&7&lPʟᴀʏᴇʀ &7&l (true)
+[03:21:50] [luckperms-command-executor/INFO]: -  prefix.100.&7&lPʟᴀʏᴇʀ&f&l&7&l (true)
+[03:22:00] [Server thread/INFO]: GlennFTW issued server command: /day
+[03:22:00] [Server thread/INFO]: [Essentials]  🛑 ꜱᴇɴᴛʀʏ ︱ GlennFTW was denied access to command.
+[03:22:15] [luckperms-command-executor/INFO]: [LP] Set group.owner to true for glennftw in context global.
+[03:22:31] [luckperms-command-executor/INFO]: [LP] ronanplayz15 already has group.owner set in context global.
+[03:23:36] [Server thread/INFO]: GlennFTW issued server command: /rg flag spawn mob-spawning deny
+[03:23:41] [Server thread/INFO]: Made GlennFTW a server operator
+[03:23:42] [Server thread/INFO]: GlennFTW issued server command: /rg flag spawn mob-spawning deny
+[03:23:45] [Server thread/INFO]: GlennFTW issued server command: /killall mobs
+[03:23:57] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[03:24:01] [Server thread/INFO]: GlennFTW issued server command: /region lists
+[03:24:04] [Server thread/INFO]: GlennFTW issued server command: /regions
+[03:24:06] [Server thread/INFO]: GlennFTW issued server command: /region list
+[03:24:16] [Server thread/INFO]: GlennFTW issued server command: /region 1 flag mob-spawning dney
+[03:24:17] [Server thread/INFO]: GlennFTW issued server command: /region 1 flag mob-spawning deny
+[03:24:23] [Server thread/INFO]: GlennFTW issued server command: /rg flag 1 mob-spawning deny
+[03:24:27] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[03:24:30] [Server thread/INFO]: GlennFTW issued server command: /rg flag 2 mob-spawning deny
+[03:24:34] [Server thread/INFO]: GlennFTW issued server command: /rg flag 3 mob-spawning deny
+[03:24:42] [Server thread/INFO]: GlennFTW issued server command: /rg flag 4 mob-spawning deny
+[03:24:49] [Server thread/INFO]: GlennFTW issued server command: /rg flag pvp mob-spawning deny
+[03:24:53] [Server thread/INFO]: GlennFTW issued server command: /rg flag spawn mob-spawning deny
+[03:24:57] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[03:26:11] [Server thread/INFO]: GlennFTW issued server command: /killall mobs
+[03:26:15] [Server thread/INFO]: GlennFTW issued server command: /killall hostile
+[03:31:22] [Server thread/INFO]: GlennFTW lost connection: Disconnected
+[03:31:22] [Server thread/INFO]: [voicechat] Disconnecting client GlennFTW
+[03:31:22] [Server thread/INFO]: (-)PʟᴀʏᴇʀGlennFTW
+[03:33:19] [Server thread/INFO]: Stopping the server
+[03:33:19] [Server thread/INFO]: Stopping server
+[03:33:19] [Server thread/INFO]: [DecentHolograms] Disabling DecentHolograms v2.8.6
+[03:33:19] [Server thread/INFO]: [Chunky] Disabling Chunky v1.3.92
+[03:33:19] [Server thread/INFO]: [KBP] Disabling KarmaAPI v1.3.4-22
+[03:33:19] [Server thread/INFO]: [InvSee++] Disabling InvSeePlusPlus v0.26.0
+[03:33:19] [Server thread/INFO]: [voicechat] Disabling voicechat v2.4.30
+[03:33:19] [Server thread/INFO]: [LPC] Disabling LPC v3.6.0
+[03:33:19] [Server thread/INFO]: [Vulcan] Disabling Vulcan v2.8.3
+[03:33:19] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.20.1
+[03:33:19] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v22.2
+[03:33:19] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[03:33:20] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v22.2
+[03:33:20] [Server thread/INFO]: [TAB] Disabling TAB v4.1.2
+[03:33:20] [Server thread/INFO]: [TAB] Disabled in 1ms
+[03:33:20] [Server thread/INFO]: [RottenFlesh2Leather] Disabling RottenFlesh2Leather v1.2
+[03:33:20] [Server thread/INFO]: [RHLeafDecay] Disabling RHLeafDecay v1.20_R1
+[03:33:20] [Server thread/INFO]: [RHLeafDecay] Cleaned up scheduledBlocks...
+[03:33:20] [Server thread/INFO]: [RHLeafDecay] The plugin has been unloaded!
+[03:33:20] [Server thread/INFO]: [net.essentialsx.discordlink.EssentialsDiscordLink] Disabling EssentialsDiscordLink v2.20.1
+[03:33:20] [Server thread/INFO]: [PL-Hide] Disabling PL-Hide v1.5.21
+[03:33:20] [Server thread/INFO]: [Polymer] Disabling Polymer v1.4.1-SNAPSHOT
+[03:33:20] [Server thread/INFO]: [Polymer] Disabled plugin Polymer
+[03:33:20] [Server thread/INFO]: [FancyNpcs] Disabling FancyNpcs v2.0.7
+[03:33:20] [Server thread/INFO]: [VeinMiner] Disabling VeinMiner v2.1.1
+[03:33:20] [Server thread/INFO]: [VeinMiner] Clearing localized data
+[03:33:20] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.2.0-SNAPSHOT-679
+[03:33:20] [Server thread/INFO]: [GSit] Disabling GSit v1.7.0
+[03:33:20] [Server thread/INFO]: [GSit] The plugin was successfully disabled.
+[03:33:20] [Server thread/INFO]: [EssentialsDiscord] Disabling EssentialsDiscord v2.21.0-dev+25-fbfd7e9
+[03:33:23] [Server thread/INFO]: [GriefPrevention] Disabling GriefPrevention v16.18.1
+[03:33:23] [Server thread/INFO]: [GriefPrevention] GriefPrevention disabled.
+[03:33:23] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.9.1
+[03:33:23] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.20.1
+[03:33:23] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.5
+[03:33:23] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.9+5934e49
+[03:33:23] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[03:33:23] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.1
+[03:33:23] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[03:33:23] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.18+6616-abda4e0
+[03:33:23] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[03:33:23] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[03:33:23] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.116
+[03:33:23] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[03:33:23] [Server thread/INFO]: [LuckPerms] Closing storage...
+[03:33:23] [Server thread/INFO]: [LuckPerms] Goodbye!
+[03:33:23] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.9.2
+[03:33:23] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[03:33:23] [Server thread/INFO]: Saving players
+[03:33:24] [Server thread/INFO]: Saving worlds
+[03:33:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:33:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[03:33:24] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[03:33:24] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[03:33:24] [Server thread/INFO]: [ChunkHolderManager] Saved 132 block chunks, 173 entity chunks, 0 poi chunks in world 'world' in 0.41s
+[03:33:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:33:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:33:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[03:33:24] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[03:33:24] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[03:33:24] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 23 entity chunks, 0 poi chunks in world 'world_nether' in 0.02s
+[03:33:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:33:24] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:33:24] [Server thread/INFO]: Flushing Chunk IO
+[03:33:24] [Server thread/INFO]: Closing Thread Pool
+[03:33:24] [Server thread/INFO]: Closing Server
+[03:33:24] [Burningwave - Resource releaser/WARN]: Exception in thread "Burningwave - Resource releaser" java.lang.BootstrapMethodError: java.lang.IllegalStateException: zip file closed
+[03:33:24] [Burningwave - Resource releaser/WARN]: 	at org.burningwave.core.assembler.StaticComponentContainer.lambda$static$21(StaticComponentContainer.java:389)
+[03:33:24] [Burningwave - Resource releaser/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[03:33:24] [Burningwave - Resource releaser/WARN]: Caused by: java.lang.IllegalStateException: zip file closed
+[03:33:24] [Burningwave - Resource releaser/WARN]: 	at java.base/java.util.zip.ZipFile.ensureOpen(ZipFile.java:846)
+[03:33:24] [Burningwave - Resource releaser/WARN]: 	at java.base/java.util.zip.ZipFile.getEntry(ZipFile.java:338)
+[03:33:24] [Burningwave - Resource releaser/WARN]: 	at java.base/java.util.jar.JarFile.getEntry(JarFile.java:516)
+[03:33:24] [Burningwave - Resource releaser/WARN]: 	at java.base/java.util.jar.JarFile.getJarEntry(JarFile.java:471)
+[03:33:24] [Burningwave - Resource releaser/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:209)
+[03:33:24] [Burningwave - Resource releaser/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:593)
+[03:33:24] [Burningwave - Resource releaser/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:169)
+[03:33:24] [Burningwave - Resource releaser/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[03:33:24] [Burningwave - Resource releaser/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:580)
+[03:33:24] [Burningwave - Resource releaser/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[03:33:24] [Burningwave - Resource releaser/WARN]: 	... 2 more

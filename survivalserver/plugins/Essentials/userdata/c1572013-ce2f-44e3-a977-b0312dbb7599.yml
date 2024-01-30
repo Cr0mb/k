@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1%0
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1706578450258
+  login: 1706578286451
+money: '0'
+last-account-name: whitefoxhacker
+lastlocation:
+  world: 8dcc6e6e-32ad-41c2-8db8-18f67b95d11d
+  world-name: world
+  x: -46.5
+  y: 79.0
+  z: -144.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 8dcc6e6e-32ad-41c2-8db8-18f67b95d11d
+  world-name: world
+  x: -55.08784887630245
+  y: 79.0
+  z: -148.70864339031488
+  yaw: -176.812255859375
+  pitch: 4.950028419494629

@@ -1,0 +1,49 @@
+npcs:
+  48c139a3-db3d-40aa-8d0e-07099d0b80e9:
+    name: ronanplayz15
+    creator: 4d8b60f3-1469-4aa0-9444-8c776b7eb31d
+    displayName: '&4&lOᴡɴᴇʀ &f&lronanplayz15'
+    type: PLAYER
+    location:
+      world: world
+      x: -879.3848056319897
+      y: 69.0
+      z: -236.58970197355447
+      yaw: 109.32381
+      pitch: -0.43727845
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: false
+    messages: []
+    interactionCooldown: 0.0
+    skin:
+      identifier: c76300b2-1ac6-4e3b-93b5-29fc003c86f0
+      value: ewogICJ0aW1lc3RhbXAiIDogMTcwNjU4MTA3NTUwMywKICAicHJvZmlsZUlkIiA6ICJjNzYzMDBiMjFhYzY0ZTNiOTNiNTI5ZmMwMDNjODZmMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJyb25hbnBsYXl6MTUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzYyZjFlM2IxNjA5Y2FmM2VmNzNmMDUwNzRmOWUzZjJjOTI2NTg4NTU4YmM2MDAxMTVmMjBjM2UwNTUwZjY3MiIKICAgIH0KICB9Cn0=
+      signature: sYpj5qkhUvV2H2PqW/zpP69P+UQXwY5gC4IW2FyYTGwKsGAO7GDcy0oMwN0W2pljQ8daAOQSDBw4bDDwqLbWzrBwlGzgB3bvQ8ZUw0WtqkUoGf1hn3HmOhYMANUBijhHA5vTItYwgSjglNyTCUMk94FUan66vfMMGYyDY3U3oH2u3HQLilVS+qbvd+6zh2oSSO3h8E1tSyP71Bxc2YgdTkuvjZekvdRQGHG8xL4EqrrhJq0kPY2eJlhz2pHqr6qY3DHfFBKpigHmkPqQXGdHkC3FNrKBuUGR8Gw3P4S55vfBFJxs888V6EQCRe0sbgkpZPUKC8ktY67tPMTc89hV8NKi4hkJLbKPc5EOsV8gHyeryBjzOnaWyx4/EW+OPvbOSxh6TIhFYx+XmxMiLaIdOrOq17iLR1A3tfLW9B0Hh+c/kbENTv3ebST/2TkQk/kN+35r6I62JtoweJp4bokN4kT2XAV2p8qWM0SqmnLdjSuWz4lRsNKvp53AUXU/4XZ3OG1KPy4RbPEDnfNDlt9cBRFw+tyOXy301nnFR/drc3Pmk9kuRwi4NnVUdeGTqDvEzuDrVKLPlwYMNyK8994fgiRkrkzECWJod8csio1MjwJ1FzJXbyxKthKaTxqn4fzwuO1TObbHoNaVKhTegddyc2Rib19qbLQ3sSA0qloxtQ8=
+  435de8de-5ec2-49ef-8d9a-e17e252bd536:
+    name: GlennFTW
+    creator: 4d8b60f3-1469-4aa0-9444-8c776b7eb31d
+    displayName: '&4&lOᴡɴᴇʀ &f&lGlennFTW'
+    type: PLAYER
+    location:
+      world: world
+      x: -879.49272963216
+      y: 69.0
+      z: -239.47140674635548
+      yaw: 70.1434
+      pitch: 4.6664047
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: false
+    messages: []
+    interactionCooldown: 0.0
+    skin:
+      identifier: 4d8b60f3-1469-4aa0-9444-8c776b7eb31d
+      value: ewogICJ0aW1lc3RhbXAiIDogMTcwNjU4MTAxNzI3OCwKICAicHJvZmlsZUlkIiA6ICI0ZDhiNjBmMzE0Njk0YWEwOTQ0NDhjNzc2YjdlYjMxZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJHbGVubkZUVyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kNWUyZDk2MmU2NmM1ZmNmYTViM2FiMzZhNTA0ZTMzMGJkODgxMTg1NGU5ZTIzNGU3YjBiZjI1YWZmODEzMDk2IgogICAgfSwKICAgICJDQVBFIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMzQwYzBlMDNkZDI0YTExYjE1YThiMzNjMmE3ZTllMzJhYmIyMDUxYjI0ODFkMGJhN2RlZmQ2MzVjYTdhOTMzIgogICAgfQogIH0KfQ==
+      signature: pw/O6sydNWCq2t+fyt9a0I2p+6CCG2Big7yknxKG7OXKpBfvdBTWTVQ6BeqTJV3vmKdgy6nG14NLehgzUSXsMfkEHNb5kgYNGJvkGG34hutSySSKUOTnqn3D50k6lT9h1k5GDUiFHVEYWYPahrnIxAvR9NXHvihIDhoElUlwnKdQD+oZj/ZXrYU6lwV2HwrkDbWbB/k93UkXIPDBAHM6gez6jQ7d38ei/OBpLDUHr5gj0ldre2OLaPn4d1wtkbxsiqu25zuOMH8nnx42fIUseS78louoJRhr+RLMm9bST3ByKIvAHzKyPim0cUq52urC/tWYNF7MA56Sr6j2lD9kXfvKDswMluVWQwzRpnWVVwJGbIYskWL76CJge73fb1eC6468iRNdbPt4etMmKmqyvqIGrkBQOs8hCJI4LM2qY6bba6OHNs8YIO4xsWnFGTVZL+de6rdJLILEapzS0Zy0rWhd1Qe7JN8Ot5ij0mhNCdvXOQqkvibULvDVidyKKrT4yQc1Eal2aSdLa977pJEVm2fLIXWzuKD0g2TRbqMsuvK2ksgenZdB13RhzpxdDiawhxnDj2CfJyNF8v1JpoFFvZt2W74YmNg86B4GPWbDsKmBxi1HhTe2FU7Rj1M0sVZhPFEaVTW62OZCN3/j2rXPKJPgFfckzjL8BsM69D7YvpY=

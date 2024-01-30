@@ -1,0 +1,38 @@
+Command:
+  NoPermission: '&4You don''t have permission to do that!'
+  RunAsConsole: '&4Please don''t use the console to execute this command!'
+  ArgError: '&4Insufficient arguments or too many arguments, or incorrect input of
+    command arguments!'
+  PlayerNotFound: '&4That player is not found...'
+Value:
+  NoMatchRegex: '&4Argument %d does not conform to regular expression.'
+  NoMatchNameRegex: '&4Your Minecraft name does not meet the requirements.'
+  NotDouble: '&4Argument %d is not a double.'
+  NotFloat: '&4Argument %d is not a float.'
+  NotBool: '&4Argument %d is not a boolean.'
+  NotInt: '&4Argument %d is not an integer.'
+  NotLong: '&4Argument %d is not a long.'
+  TooHigh: '&4The value of parameter %d is too high.'
+  TooLow: '&4The value of parameter %d is too low.'
+Info:
+  Plugin: '&aRunning Polymer version %1$s by %2$s. Server MC version: %3$s.'
+  ReloadSuccess: '&aReloaded successfully!'
+  InputQuit: '&e(Type ''%s'' to cancel)'
+  List:
+    Head: '&a-----------------&ePage %d&a-----------------'
+    ListEmpty: '&4There aren''t any elements in the list.'
+    DefaultStyle: '&a%1$d.&e%2$s'
+    Tail: '&a----------------------------------------'
+    Prev: '&a<- &ePrev'
+    Next: '&eNext &a->'
+    PrevUnavailable: '&8&l<- Prev'
+    NextUnavailable: '&8&lNext ->'
+GUI:
+  Search: '&dSearch'
+  Previous: '&aPrevious page'
+  Next: '&aNext page'
+  Close: '&cClose'
+  DataEmpty: '&4There is no data to display.'
+  SearchResultTitle: '&6&lSearch result (%page%/%max%)'
+  SearchNoResult: '&4&lNo result found'
+  SearchNoResultSub: '&aYou will back to the main inventory.'

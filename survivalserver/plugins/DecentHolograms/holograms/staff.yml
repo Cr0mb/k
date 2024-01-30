@@ -1,0 +1,12 @@
+location: world:-884.300:72.200:-233.519
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&5&lStaff'
+    height: 0.3
+  actions: {}

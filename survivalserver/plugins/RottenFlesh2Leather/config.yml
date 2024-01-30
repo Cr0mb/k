@@ -1,0 +1,14 @@
+# Enable or disable certain cooking methods (Default = true)
+recipes:
+  allowFurnace: true
+  allowSmoker: true
+  allowCampfire: true
+
+# Change the amount of time it takes to cook in ticks (Default = 200, 100, 600)
+cooking-time:
+  furnaceCookingTime: 200
+  smokerCookingTime: 100
+  campfireCookingTime: 600
+
+# Set custom xp level (Default = 1.0)
+xp-level: 1.0

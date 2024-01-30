@@ -1,0 +1,4 @@
+language: en-us
+debug: false
+checkUpdate: true
+auto-detect-client-language: true
